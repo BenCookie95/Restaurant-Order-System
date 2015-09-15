@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+Tue Sep 15 20:53:43 BST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-014f-d291-efe2-000004d404b0 
+on database directory C:\Users\Ben\Downloads\Restaurant\Restaurant (Updated)\Restaurant\Employee  with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/Ben/Downloads/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Users\Ben\Downloads\Restaurant\Restaurant (Updated)\Restaurant
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 15 20:53:46 BST 2015:
+Shutting down instance a816c00e-014f-d291-efe2-000004d404b0 on database directory C:\Users\Ben\Downloads\Restaurant\Restaurant (Updated)\Restaurant\Employee with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+----------------------------------------------------------------
+Tue Sep 15 20:53:46 BST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance fb160050-014f-d291-efe2-000004d404b0 
+on database directory C:\Users\Ben\Downloads\Restaurant\Restaurant (Updated)\Restaurant\Employee  with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/Ben/Downloads/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Users\Ben\Downloads\Restaurant\Restaurant (Updated)\Restaurant
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 15 20:53:47 BST 2015:
+Shutting down instance fb160050-014f-d291-efe2-000004d404b0 on database directory C:\Users\Ben\Downloads\Restaurant\Restaurant (Updated)\Restaurant\Employee with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
